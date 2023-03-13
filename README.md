@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisson Rubas
 =====================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
-I am a former Digital Marketer who suddenly decided to teach myself how to code and dive into the frontend world after building a WordPress website for one of the companies I worked for.
+I am a former Digital Marketer who suddenly decided to teach myself how to code and dive into the Software engineer world after building a CMS website for one of the companies I worked for.
 
 * 🌍  I'm based in Boston
 * 🖥️  See my portfolio at [rubasalisson.com](http://rubasalisson.com)
